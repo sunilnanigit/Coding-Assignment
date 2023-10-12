@@ -1,4 +1,3 @@
-
 public class PangramChecker {
     public static void main(String[] args) {
         String input = "The quick brown fox jumps over the lazy dog";
