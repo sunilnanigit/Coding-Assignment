@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.Map;
-
 public class RomanToInteger {
     public static void main(String[] args) {
         String romanNumeral = "IX"; // Replace with the Roman numeral you want to convert
